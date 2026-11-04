@@ -28,10 +28,8 @@ An interactive Excel-based dashboard developed to analyze comprehensive car sale
 
 ## 🖼️ Dashboard Preview
 <p align="center">
-  <img src="dashboard-preview.png" alt="Car Sales Dashboard Preview" width="850">
+  <img src="Screenshot 2026-11-04 185002.png" alt="Car Sales Dashboard Preview" width="850">
 </p>
-
----
 
 ## 📁 Repository Structure
 - `data/`: Contains the raw and cleaned datasets used for the analysis.
